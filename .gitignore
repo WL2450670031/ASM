@@ -2,3 +2,5 @@
 *.OBJ
 *.exe
 *.EXE
+.vscode/
+.history/
